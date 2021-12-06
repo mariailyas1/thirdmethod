@@ -1,0 +1,8 @@
+div{
+    color: blueviolet;
+    background-color: coral;
+    text-align: center;
+    border: 3px double green;
+    margin: 0 auto;
+    padding: 50px;
+}
